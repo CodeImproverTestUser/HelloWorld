@@ -24,27 +24,7 @@ namespace HelloWorld
                 }
                 if (l2 > l3) 
                 {
-                    return;
-                }
-                else
-                { 
-                l2 = l2 + 1;
-                } 
-                if (l3 > l4) 
-                {
-                    return;
-                }
-                else
-                { 
-                l3 = l3 + 1;
-                }                  
-                if (l6 > l7) 
-                {
-                    return;
-                }
-                else
-                { 
-                l6 = l6 + 1;
+              
                 }  
             }
             else
